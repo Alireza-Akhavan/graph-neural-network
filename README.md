@@ -12,3 +12,9 @@ Possible applications:
  - recommendation systems
  - bioinformatics
  - ...
+
+## Code refrences:
+
+- https://pytorch-geometric.readthedocs.io/en/latest/get_started/colabs.html
+- https://keras.io/examples/graph/gnn_citations
+- https://www.udemy.com/course/graph-neural-network/
